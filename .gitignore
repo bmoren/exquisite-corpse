@@ -25,6 +25,7 @@ coverage
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
+EC-darwin-x64
 
 # Dependency directories
 node_modules
